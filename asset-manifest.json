@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rin-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rin-test/static/js/main.de9014dc.chunk.js",
+    "main.js.map": "/rin-test/static/js/main.de9014dc.chunk.js.map",
+    "runtime-main.js": "/rin-test/static/js/runtime-main.f88aa4ca.js",
+    "runtime-main.js.map": "/rin-test/static/js/runtime-main.f88aa4ca.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/rin-test/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/rin-test/static/js/2.d0eb047a.chunk.js.map",
+    "static/js/3.a6e4d959.chunk.js": "/rin-test/static/js/3.a6e4d959.chunk.js",
+    "static/js/3.a6e4d959.chunk.js.map": "/rin-test/static/js/3.a6e4d959.chunk.js.map",
+    "index.html": "/rin-test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rin-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/rin-test/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rin-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f88aa4ca.js",
+    "static/js/2.d0eb047a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.de9014dc.chunk.js"
+  ]
+}
